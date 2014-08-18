@@ -1,4 +1,7 @@
-Relatório do Encontro Ciência Aberta 18 de agosto de 2014
+﻿Relatório do Encontro Ciência Aberta 18 de agosto de 2014
 Pretendo participar da oficina de Content Mining
 Pretendo participar do seminário Inovações em publicação científica aberta e alternativas de avaliação
 Atualização F5
+
+
+Henrique inseriu localmente uma linha.
